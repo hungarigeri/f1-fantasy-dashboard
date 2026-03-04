@@ -29,7 +29,7 @@ Pilóta Profilok: Egyedi modális ablakok minden versenyzőhöz, statisztikákka
 Konstruktőri Állás: A csapatok teljesítményének összesítése a pilótáik eredményei alapján.
 
 Technológiai Stack
-Keretrendszer: React (TypeScripttel a típusbiztonság érdekében).
+Keretrendszer: React (TypeScripttel).
 
 Stílus: Tailwind CSS a modern, sötét tónusú "F1-es" megjelenésért.
 
@@ -71,7 +71,7 @@ Driver Profiles: Custom modal windows for each driver featuring stats and team-s
 Constructor Standings: Aggregated team performance based on their drivers' combined points.
 
 Technology Stack
-Framework: React with TypeScript for robust type safety.
+Framework: React with TypeScript.
 
 Styling: Tailwind CSS for a sleek, dark-themed "F1-style" UI.
 
