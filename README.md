@@ -35,7 +35,6 @@ Stílus: Tailwind CSS a modern, sötét tónusú "F1-es" megjelenésért.
 
 Adatforrás: Jolpi F1 API (az Ergast API modern utódja).
 
-Állapotkezelés: React Hooks (useMemo, useState, useReducer, useEffect) és egyedi hookok a tiszta kódstruktúráért.
 
 Megjegyzés: Ez az alkalmazás egy rajongói projekt, és nem áll hivatalos kapcsolatban a Formula 1-gyel.
 
@@ -76,6 +75,5 @@ Styling: Tailwind CSS for a sleek, dark-themed "F1-style" UI.
 
 Data Source: Jolpi F1 API, the modern successor to the Ergast API.
 
-State Management: React Hooks (useMemo, useState, useReducer, useEffect) and custom hooks for a clean architecture.
 
 Note: This application is a fan-made project and is not officially affiliated with Formula 1.
