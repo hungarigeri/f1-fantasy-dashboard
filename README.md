@@ -38,6 +38,8 @@ Adatforrás: Jolpi F1 API (az Ergast API modern utódja).
 
 Megjegyzés: Ez az alkalmazás egy rajongói projekt, és nem áll hivatalos kapcsolatban a Formula 1-gyel.
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 F1 Fantasy Dashboard - 2026 Pre-Season Hub
 This project is a modern, React-based web application designed for Formula 1 fans to prepare for the 2026 season. It combines future grid projections with historical race data (2023–2025) to provide predictive insights into Fantasy scoring.
 
